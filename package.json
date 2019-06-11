@@ -1,5 +1,5 @@
 {
-  "name": "swup",
+  "name": "swup-fork",
   "version": "2.0.4",
   "description": "Complete, flexible, extensible and easy to use page transition library for your web.",
   "main": "lib/index.js",
